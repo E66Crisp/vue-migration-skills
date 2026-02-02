@@ -7,7 +7,7 @@ Cursor Skill for Vue 2 to Vue 3 migration.
 This skill helps developers upgrade Vue 2 applications and libraries to Vue 3, covering:
 
 - Migration build workflow with `@vue/compat`
-- Global API changes (`createApp`, treeshaking)
+- Global API changes (`createApp`, tree-shaking)
 - Breaking changes (template, components, render, directives, lifecycle)
 - New features (Fragments, Composition API)
 - Ecosystem recommendations (Vite, Pinia, Volar, Vue Router 4)
